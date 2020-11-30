@@ -1,3 +1,31 @@
 body {
   background: red);
 }
+
+article {
+  max-width: 370px;
+  margin: 30px auto;
+  background: #777;
+  box-shadow: 0 25px 25px;
+}
+
+.article-photo {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.article-content {
+  padding: 25px;
+}
+
+.article-text {
+  margin-bottom: 30px;
+}
+
+.article-footer {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  color: #2c2904;
+}
